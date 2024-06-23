@@ -20,9 +20,9 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Position      | Name                               | Country     |
 |---------------|------------------------------------|-------------|
 | Member        | Desmond Gwanulla                   | U.S.A       |
-| Member        | Dang Hau Phan                      | Canada      |
+| Team Leader   | Dang Hau Phan                      | Canada      |
 | Member        | Shanakay                           | Canada      |
-| Member        | Shenel                             | Canada      |
+| Assistant     | Shenel                             | Canada      |
 | Member        | Sahil                              | Canada      |
 | Member        | Junior Neba                        | Canada      |
 
