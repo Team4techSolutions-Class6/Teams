@@ -34,8 +34,8 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Member        | Bertrand Benla                     | U.S.A       |
 | Member        | Lino White                         | U.S.A       |
 | Member        | Elizabeth                          | Canada      |
-| Member        | Ben                                |             |
-| Member        | Claudia                            |             |
+| Member        | Ben                                | U.S.A       |
+| Member        | Claudia                            | U.S.A       |
 
 ### Group D
 
