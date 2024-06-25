@@ -41,9 +41,9 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 
 | Position      | Name                               | Country     |
 |---------------|------------------------------------|-------------|
-| Member        | Patricia Chinemerem Akalawu        |             |
-| Member        | Oduma Freeborn                     |             |
-| Member        | Wanda Elvis                        |             |
+| Member        | Patricia Chinemerem Akalawu        |Nigeria      |
+| Member        | Oduma Freeborn                     |Nigiria      |
+| Member        | Wanda Elvis                        |Finland      |
 
 
 
