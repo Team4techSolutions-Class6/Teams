@@ -35,7 +35,7 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Team Lead     | Lino White                         | U.S.A       |
 | Member        | Elizabeth                          | Canada      |
 | Member        | Ben                                | U.S.A       |
-| Member        | Claudia                            |             |
+| Member        | Claudia                            | Canada      |
 
 ### Group D
 
