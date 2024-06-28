@@ -44,6 +44,9 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Team Lead     | Patricia Chinemerem Akalawu        | Nigeria     |
 | Member        | Oduma Freeborn                     | Nigeria     |
 | Member        | Wanda Elvis                        | Finlamd     |
+| Member        | Calson                             | Canada      |
+
+
 
 
 
