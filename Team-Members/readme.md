@@ -30,10 +30,10 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 
 | Position      | Name                               | Country     |
 |---------------|------------------------------------|-------------|
-| Member        | Mike                               |             |
-| Assitant      | Bertrand Benla                     | U.S.A       |
-| Team Lead     | Lino White                         | U.S.A       |
-| Member        | Elizabeth                          |             |
+| Member        | Mike                               | U.S.A       |
+| Member        | Bertrand Benla                     | U.S.A       |
+| Member        | Lino White                         | U.S.A       |
+| Member        | Elizabeth                          | Canada      |
 | Member        | Ben                                |             |
 | Member        | Claudia                            |             |
 
@@ -41,9 +41,9 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 
 | Position      | Name                               | Country     |
 |---------------|------------------------------------|-------------|
-| Team Lead     | Patricia Chinemerem Akalawu        | Nigeria     |
-| Member        | Oduma Freeborn                     | Nigeria     |
-| Member        | Wanda Elvis                        | Finlamd     |
+| Member        | Patricia Chinemerem Akalawu        |             |
+| Member        | Oduma Freeborn                     |             |
+| Member        | Wanda Elvis                        |             |
 
 
 
