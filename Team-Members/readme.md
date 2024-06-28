@@ -33,8 +33,8 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Member        | Mike                               |             |
 | Assitant      | Bertrand Benla                     | U.S.A       |
 | Team Lead     | Lino White                         | U.S.A       |
-| Member        | Elizabeth                          |             |
-| Member        | Ben                                |             |
+| Member        | Elizabeth                          | Canada      |
+| Member        | Ben                                | U.S.A       |
 | Member        | Claudia                            |             |
 
 ### Group D
