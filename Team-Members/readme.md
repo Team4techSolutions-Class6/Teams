@@ -13,7 +13,8 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Member        | IBRAHIM ABULMA-AL ABDUL SAMED      | U.S.A       |
 | Assistant     | Achamba Hartman                    | Canada      |
 | Member        | Isaac Mbuyamba                     | U.S.A       |
-| Member        | Esther Benny                       | Canada      |
+| Member        | Wanda Elvis                        | Finland     |
+| Member        | Oduma Freeborn                     | Nigeria     |
 
 ### Group B
 
@@ -25,6 +26,7 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Assistant     | Shenel                             | Canada      |
 | Member        | Sahil                              | Canada      |
 | Member        | Junior Neba                        | Canada      |
+| Member        | Patricia Chinemerem Akalawu        | Nigeria     |
 
 ### Group C
 
@@ -34,23 +36,12 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Member        | Bertrand Benla                     | U.S.A       |
 | Member        | Lino White                         | U.S.A       |
 | Member        | Elizabeth                          | Canada      |
-| Member        | Ben                                |             |
-| Member        | Claudia                            |             |
+| Member        | Bibek                              | Canada      |
+| Member        | Claudia                            | U.SA        |
+| Member        | Sujan                              | Canada      |
 
-### Group D
-
-| Position      | Name                               | Country     |
-|---------------|------------------------------------|-------------|
-| Member        | Patricia Chinemerem Akalawu        |             |
-| Member        | Oduma Freeborn                     |             |
-| Member        | Wanda Elvis                        |             |
 
 
 
 By engaging actively in these groups, you will not only enhance your technical skills but also build strong professional relationships that are 
 crucial in the field of DevOps and Cloud Engineering. Let’s collaborate, learn, and succeed together!
-
-
-
-
-9:19 PM EST 
