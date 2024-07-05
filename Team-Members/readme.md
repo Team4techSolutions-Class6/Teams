@@ -39,6 +39,7 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Member        | Bibek                              | Canada      |
 | Member        | Claudia                            | U.SA        |
 | Member        | Sujan                              | Canada      |
+| Member        | Victor                             | Canada      |
 
 
 
