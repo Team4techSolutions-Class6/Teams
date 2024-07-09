@@ -14,7 +14,7 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Assistant     | Achamba Hartman                    | Canada      |
 | Member        | Isaac Mbuyamba                     | U.S.A       |
 | Member        | Wanda Elvis                        | Finland     |
-| Member        | Oduma Freeborn                     | Nigeria     |
+
 
 ### Group B
 
@@ -32,7 +32,7 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 
 | Position      | Name                               | Country     |
 |---------------|------------------------------------|-------------|
-| Member        | Mike                               | U.S.A       |
+| Member        | Tibui                              | U.S.A       |
 | Member        | Bertrand Benla                     | U.S.A       |
 | Member        | Lino White                         | U.S.A       |
 | Member        | Elizabeth                          | Canada      |
