@@ -15,6 +15,7 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Member        | Isaac Mbuyamba                     | U.S.A       |
 | Member        | Wanda Elvis                        | Finland     |
 | Member        | Tibui                              | Canada      |
+|
 
 
 ### Group B
@@ -28,6 +29,7 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Member        | Sahil                              | Canada      |
 | Member        | Junior Neba                        | Canada      |
 | Member        | Patricia Chinemerem Akalawu        | Nigeria     |
+| Member        | Jeff                               | Canada      |
 
 ### Group C
 
