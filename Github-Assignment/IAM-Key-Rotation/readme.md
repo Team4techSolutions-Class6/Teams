@@ -80,3 +80,6 @@ Open Jira tickets for each task:
 + Collaboration: Effective use of Git branches, pull requests, and code reviews.
 + Documentation: Clear, concise, and complete documentation in the readme.md file.
 + Jira Management: Proper use of Jira for task management and tracking.
+
+
+Submission date : 22md of August 2024
