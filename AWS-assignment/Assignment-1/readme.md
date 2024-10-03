@@ -37,9 +37,12 @@ Utilize Jira for creating and assigning tasks related to different components of
 
 + AWS CloudWatch Alarms: Set up CloudWatch alarms to monitor the health and performance of the application servers, ensuring prompt notification in case of issues.
 
++ Be creative , research and add any information that can make your team stand out 
+
 **Evaluation Criteria:**
 
 **Architecture**: Robustness and adherence to best practices in cloud architecture.
+**Security** : Make sure security is first priority from how your resources are accessed 
 **Team Collaboration**: Effectiveness in working as a team and utilizing Jira for task management.
 **Documentation**: Quality of documentation on Confluence detailing the design process, challenges, and solutions.
 **Execution**: Smooth deployment and operation of the infrastructure.
