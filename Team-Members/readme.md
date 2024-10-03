@@ -10,12 +10,12 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 |---------------|------------------------------------|-------------|
 | Member        | Shantine                           | Canada      |
 |Team Lead      | Arnaud Bertin Kamkuimo             | Canada      |
-| Member        | IBRAHIM ABULMA-AL ABDUL SAMED      | U.S.A       |
 | Assistant     | Achamba Hartman                    | Canada      |
-| Member        | Isaac Mbuyamba                     | U.S.A       |
 | Member        | Wanda Elvis                        | Finland     |
-| Member        | Tibui                              | Canada      |
-|
+| Member        | Bertrand Benla                     | U.S.A       |
+| Member        | Elizabeth                          | Canada      |
+| Member        | Claudia                            | U.S A       |
+| Member        | Lino                               | U.S.A       |
 
 
 ### Group B
@@ -24,26 +24,12 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 |---------------|------------------------------------|-------------|
 | Member        | Desmond Gwanulla                   | U.S.A       |
 | Team Lead     | Dang Hau Phan                      | Canada      |
-| Member        | Shanakay                           | Canada      |
-| Assistant     | Shenel                             | Canada      |
 | Member        | Sahil                              | Canada      |
 | Member        | Junior Neba                        | Canada      |
 | Member        | Patricia Chinemerem Akalawu        | Nigeria     |
-| Member        | Jeff                               | Canada      |
-
-### Group C
-
-| Position      | Name                               | Country     |
-|---------------|------------------------------------|-------------|
-| Member        | Mike                               | U.S.A       |
-| Member        | Bertrand Benla                     | U.S.A       |
-| Member        | Lino White                         | U.S.A       |
-| Member        | Elizabeth                          | Canada      |
 | Member        | Bibek                              | Canada      |
-| Member        | Claudia                            | U.SA        |
 | Member        | Sujan                              | Canada      |
 | Member        | Victor                             | Canada      |
-
 
 
 
