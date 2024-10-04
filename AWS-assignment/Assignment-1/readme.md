@@ -59,3 +59,6 @@ Utilize Jira for creating and assigning tasks related to different components of
 
 Complete all components of the project, document each step on Confluence and github readme file, and prepare a presentation to be delivered on the due date. 
 Ensure all resources are properly cleaned up post-presentation to avoid unnecessary costs.
+
+
+
