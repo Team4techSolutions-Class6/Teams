@@ -1,5 +1,7 @@
 **Deployment of a Highly Available Web Application on AWS**
- 
+
+ ![image](https://github.com/user-attachments/assets/b2c403fe-dc87-41e8-a017-7aa8e82fa183)
+
 **Objective:**
 
 The goal of this project is to deploy a secure, highly available, and resilient web application on AWS. 
