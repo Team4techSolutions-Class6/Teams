@@ -56,4 +56,22 @@ crucial in the field of DevOps and Cloud Engineering. Let’s collaborate, learn
 
 
 
-9:19 PM EST 
+{
+  "transitions": [
+    {
+      "id": "31",
+      "name": "In Review",
+      "to": {
+        "name": "In Review"
+      }
+    },
+    {
+      "id": "51",
+      "name": "Done",
+      "to": {
+        "name": "Done"
+      }
+    }
+  ]
+}
+
