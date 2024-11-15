@@ -3,6 +3,7 @@ name: Transition Jira Ticket
 on:
   pull_request:
     types: [opened]
+  workflow_dispatch:
 
 jobs:
   transition-jira:
