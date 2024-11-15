@@ -13,18 +13,18 @@ jobs:
         run: |
           # Assuming branch name contains the Jira issue key in the format PROJECT-123
           ISSUE_KEY=$(echo "${{ github.head_ref }}" | grep -oE '[A-Z]+-[0-9]+')
-          echo "issue_key=$ISSUE_KEY" >> $GITHUB_ENV
+          echo "ISSUE_KEY=$ISSUE_KEY" >> $GITHUB_ENV
 
       - name: Transition Jira Ticket to "Done"
-        if: env.issue_key != ''
+        if: env.ISSUE_KEY != ''
         env:
           JIRA_USER: ${{ secrets.JIRA_USER }}
           JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
           JIRA_URL: ${{ secrets.JIRA_URL }}
-          ISSUE_KEY: ${{ env.issue_key }}
+          ISSUE_KEY: ${{ env.ISSUE_KEY }}
         run: |
           curl -u "$JIRA_USER:$JIRA_API_TOKEN" \
           -X POST \
           -H "Content-Type: application/json" \
-          --data '{"transition": {"id": "51"}}' \  # Replace 51 with the actual ID for "Done"
+          --data '{"transition": {"id": "51"}}' \
           "$JIRA_URL/rest/api/2/issue/$ISSUE_KEY/transitions"
